@@ -1,4 +1,4 @@
-##💫About Me:
+💫About Me:
 <br><br>Hi, I'm Taranpreet Singh – Full Stack Web Developer<br><br>I'm a full stack web developer who loves crafting end-to-end web applications that are fast, responsive, and scalable. From designing intuitive frontends to building robust backend systems, I enjoy turning ideas into real-world digital solutions.<br>
 
 ## 🌐 Socials:
